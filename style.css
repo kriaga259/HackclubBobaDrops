@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  border: 8px;
+  border-color: red;
+}
+
+.button{
+  border: 8px;
+  border-color: red;
+}
